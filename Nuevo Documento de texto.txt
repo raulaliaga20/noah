@@ -1,0 +1,15 @@
+QUE ES GIT
+
+Git es un sistema de control de versiones que permite seguir los cambios en el código a lo largo del tiempo. Es como una herramienta que te ayuda a mantener un historial de todas las modificaciones que haces en tus archivos, facilitando la colaboración con otros desarrolladores y permitiendo volver a versiones anteriores si es necesario.
+ 
+QUE ES UN REPOSITORIO
+
+Un repositorio es como una carpeta especial donde se almacena todo tu proyecto, incluyendo el código, imágenes, documentos, etc. Además, dentro de esa carpeta, Git guarda el historial de cambios de cada archivo, lo que te permite revisar qué ha cambiado, cuándo y por quién.
+
+QUE ES UN COMMIT 
+
+Un commit es una "foto" de tu proyecto en un momento específico. Cada vez que haces un commit, estás guardando una versión del proyecto tal como está en ese instante, con una descripción de los cambios realizados. Es como un punto de control al que puedes volver si necesitas deshacer cambios o revisar el historial.
+
+QUE ES UNA RAMA  
+
+Una rama (o "branch") es como una línea paralela de desarrollo dentro de tu repositorio. Puedes crear ramas para trabajar en nuevas características o correcciones sin afectar la versión principal del proyecto. Luego, cuando terminas, puedes "unir" esa rama con la principal, incorporando los cambios.
